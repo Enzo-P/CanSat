@@ -51,7 +51,7 @@ The ESP32-Cam module is responsible for the vision capabilities of the CanSat, l
 
 ### Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/cansat-project.git`
+1. Clone this repository: `git clone https://github.com/Enzo-P/CanSat.git`
 2. Open the Arduino IDE.
 3. Load the Arduino sketch from the `src` directory.
 4. Connect the CanSat hardware components as per the provided schematic.
